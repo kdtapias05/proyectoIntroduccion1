@@ -1,0 +1,31 @@
+h1{
+     font-weight: bold;
+}
+
+.imagenfondo{
+    background-image: url(img/yogasol.jpg);
+    height: 1900px;    
+}
+
+.bienvenidos{
+    font-size: 1.2em;   
+}
+
+footer{
+    background-color: gray;
+    color: white;
+    text-align: center;   
+}
+
+.textoverde {
+    color: green;
+}
+
+.imagenfondo2{
+    background-image: url(img/exterior.jpg);
+    height: 800px;    
+}
+
+.beneficios{
+    font-size: 2.0em;   
+}

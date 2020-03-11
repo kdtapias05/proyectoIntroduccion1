@@ -5,6 +5,7 @@ h1{
 .imagenfondo{
     background-image: url(img/yogasol.jpg);
     height: 1900px;    
+    height: 635px;
 }
 
 .bienvenidos{
@@ -19,13 +20,29 @@ footer{
 
 .textoverde {
     color: green;
+    font-weight: bold;
 }
 
 .imagenfondo2{
     background-image: url(img/exterior.jpg);
-    height: 800px;    
+    height: 1000px;    
+    width: 640px;
+    
 }
 
 .beneficios{
     font-size: 2.0em;   
 }
+
+.ppagina1{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif   ;
+    font-style: italic;
+    color: green;
+    text-align: justify;
+}
+
+
+
+
+

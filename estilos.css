@@ -24,7 +24,7 @@ footer{
 }
 
 .imagenfondo2{
-    background-image: url(img/exterior.jpg);
+    background-image: url(img/Posturas.jpg);
     height: 1000px;    
     width: 640px;
     
@@ -42,7 +42,29 @@ footer{
     text-align: justify;
 }
 
+.textoazul{
+    color: blue;
+    font-weight: bold;
+}
 
+    .ppagina2{
+        font-size: 22px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: italic;
+        color: blue;
+        text-align: left;
+    }
 
+    .imagenfondo3{
+        background-image: url(img/Serfeliz.jpg);
+        height: 1000px;    
+        width: 640px;
 
+    }
 
+    .p2pagina2{
+        font-size: 26px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-style: italic;
+        color: blue;
+        
